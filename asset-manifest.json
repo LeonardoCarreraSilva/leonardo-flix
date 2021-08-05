@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/leonardoFlix/static/css/main.7fced621.chunk.css",
+    "main.js": "/leonardoFlix/static/js/main.8f9c6cad.chunk.js",
+    "main.js.map": "/leonardoFlix/static/js/main.8f9c6cad.chunk.js.map",
+    "runtime-main.js": "/leonardoFlix/static/js/runtime-main.011f091c.js",
+    "runtime-main.js.map": "/leonardoFlix/static/js/runtime-main.011f091c.js.map",
+    "static/js/2.8eff4410.chunk.js": "/leonardoFlix/static/js/2.8eff4410.chunk.js",
+    "static/js/2.8eff4410.chunk.js.map": "/leonardoFlix/static/js/2.8eff4410.chunk.js.map",
+    "index.html": "/leonardoFlix/index.html",
+    "precache-manifest.a4d0aca5f12077e72d6a9a34d59cbb99.js": "/leonardoFlix/precache-manifest.a4d0aca5f12077e72d6a9a34d59cbb99.js",
+    "service-worker.js": "/leonardoFlix/service-worker.js",
+    "static/css/main.7fced621.chunk.css.map": "/leonardoFlix/static/css/main.7fced621.chunk.css.map",
+    "static/js/2.8eff4410.chunk.js.LICENSE.txt": "/leonardoFlix/static/js/2.8eff4410.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/leonardoFlix/static/media/Logo.ad2fd3a4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.011f091c.js",
+    "static/js/2.8eff4410.chunk.js",
+    "static/css/main.7fced621.chunk.css",
+    "static/js/main.8f9c6cad.chunk.js"
+  ]
+}
